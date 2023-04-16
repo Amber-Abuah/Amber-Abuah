@@ -1,6 +1,6 @@
 - 👋 Hi there, nice to meet you, I'm Amber Abuah!
-- 👀 I'm interested in game development within Unity and also enjoy 3D character modelling.
-- 👩‍🎓 I study Computer Science at Royal Holloway University.
+- 👀 I'm interested in game development within Unity and also enjoy machine learning.
+- 👩‍🎓 I am in my final year studying Computer Science BSc at Royal Holloway University.
 - 🍰 I also enjoy baking desserts and gaming in my spare time! 🎮
 
 <!---
