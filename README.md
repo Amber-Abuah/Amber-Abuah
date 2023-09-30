@@ -1,6 +1,6 @@
 - 👋 Hi there, nice to meet you, I'm Amber Abuah!
 - 👀 I'm interested in game development within Unity and also enjoy machine learning.
-- 👩‍🎓 I am a BSc Computer Science graduate, starting a MSc Artificial Intelligence in September.
+- 👩‍🎓 I am currently pursuing a Masters in Artificial Intelligence.
 - 🍰 I also enjoy baking desserts and gaming in my spare time! 🎮
 - 🖥️ Check out more of my projects at https://amber-abuah.github.io/Portfolio-Site!
 
